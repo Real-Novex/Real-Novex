@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/787836787510083595?hideDiscrim=true)](https://discord.com/users/787836787510083595)
+[![Discord Presence] (https://discord.com/users/787836787510083595)
 
 <h2>Ben Kimim</h2>
 
