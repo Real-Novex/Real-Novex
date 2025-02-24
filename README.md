@@ -1,4 +1,4 @@
-[![Discord Presence] (https://discord.com/users/787836787510083595)
+[![Discord Hesabım] (https://discord.com/users/787836787510083595)
 
 <h2>Ben Kimim</h2>
 
