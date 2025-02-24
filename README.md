@@ -19,6 +19,7 @@ module.exports = Novex
 ```
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 <div align="center">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <h1> :wave: Hi, I’m @Real-Novex </h1>
 
   <h1> ✍ Technologies I use </h1>
