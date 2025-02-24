@@ -1,3 +1,23 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/787836787510083595?hideDiscrim=true)](https://discord.com/users/787836787510083595)
+
+<h2>Ben Kimim</h2>
+
+```js
+class Ramal {
+    constructor(options) {
+        this.name = "Novex",
+        this.sex = "Man",
+        this.length = "197",
+        this.type = "human",
+        this.job = "Eğlencesinde",
+        this.age = "20",
+        this.discord.tag = "realnovex"
+    };
+}
+
+module.exports = Novex
+```
+
 <div align="center">
   <h1> :wave: Hi, I’m @Real-Novex </h1>
 
